@@ -84,11 +84,6 @@ conda activate id2223lab1
 
 # 2. Install dependencies
 pip install -r requirements.txt
-Create a `.env` file in the project root based on `.env.example` and fill in:
 
-- `HOPSWORKS_PROJECT`  
-- `HOPSWORKS_HOST`  
-- `HOPSWORKS_API_KEY`  
-- `AQICN_API_KEY`  
-- AQICN sensor info (`AQICN_COUNTRY`, `AQICN_CITY`, `AQICN_STREET`, `AQICN_URL`, etc.)
+
 
