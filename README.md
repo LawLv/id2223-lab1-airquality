@@ -84,7 +84,7 @@ conda activate id2223lab1
 
 # 2. Install dependencies
 pip install -r requirements.txt
-
+```bash
 
 Create a .env file in the project root based on .env.example and fill in:
 - HOPSWORKS_PROJECT
